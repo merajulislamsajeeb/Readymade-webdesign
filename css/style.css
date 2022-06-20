@@ -1,0 +1,50 @@
+/*----------------------------------------------------------------------------------
+
+	Template Name: 
+	Template URL: 
+	Description: 
+	Author: 
+	Author URL: 
+	License: GNU General Public 
+	Version: 2020.0.1
+-----------------------------------------------------------------------------------
+
+	1. Typography
+	2. Header Area
+	3. Getting Started
+	4. Design Area
+	5. Community Area
+	6. Subscribe Area
+	7. Download Area
+	8. Footer Area
+-----------------------------------------------------------------------------------*/
+
+
+/************** 1. Typography ************************/
+
+h1, 
+h2, 
+h3, 
+h4, 
+h5, 
+h6, 
+a, 
+p,
+ul{
+	margin: 0;
+	text-decoration: none;
+	text-align: center;
+	color: red;
+}
+p{
+	color: #848789;
+	line-height: 30px;
+}
+
+body{
+	margin:0; 
+	padding: 0;
+}
+/************ Header Area ************/
+
+/************** 2. Header Area ************************/
